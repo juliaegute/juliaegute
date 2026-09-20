@@ -1,4 +1,4 @@
-# Olá! Eu sou a Julia Egute 👋
+# Oie! Eu sou a Julia Egute 👋
 
 ### Estudante de Ciência de Dados e Negócios | Dados, BI e Inteligência Artificial
 
@@ -7,6 +7,7 @@ Sou estudante de **Ciência de Dados e Negócios na ESPM**, apaixonada por trans
 Tenho interesse nas áreas de **Análise de Dados, Business Intelligence, Inteligência Artificial e Machine Learning**. Durante a graduação, venho desenvolvendo projetos que unem tecnologia, estratégia e experiência do usuário, além de aprimorar minhas habilidades de liderança, organização e trabalho em equipe.
 
 Atualmente, busco oportunidades para aplicar meus conhecimentos, aprender com desafios reais e contribuir com soluções orientadas por dados.
+
 
 ## 💻 Tecnologias e ferramentas
 
@@ -20,12 +21,14 @@ Atualmente, busco oportunidades para aplicar meus conhecimentos, aprender com de
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+
 ## 📚 O que estou estudando
 - Análise, arquitetura e visualização de dados
 - Banco de dados e SQL
 - Estatística e modelos preditivos
 - Desenvolvimento web com JavaScript, TypeScript e React
 - Qualidade de software, testes automatizados e metodologias ágeis
+
 
 ## 🚀 Projetos em destaque
 
@@ -39,9 +42,11 @@ Plataforma de compra e revenda de produtos entre universitários, desenvolvida c
 ### Projeto de Sensores - SenseZone
 Desenvolvimento de uma solução baseada em sensores, incluindo levantamento de requisitos funcionais e não funcionais, modelagem UML, arquitetura do sistema e dos dados e gestão do projeto com Scrum.
 
+
 ## 🌱 Além da tecnologia
 
 Gosto de leitura, música e teatro musical. Também valorizo experiências que ampliem minha visão de mundo, criatividade e capacidade de trabalhar com pessoas diferentes.
+
 
 ## 📫 Vamos nos conectar?
 
